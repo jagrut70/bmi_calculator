@@ -1,13 +1,13 @@
 import 'package:bmi_calculator/screen/results.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter/cupertino.dart';
-import '../comonents/card.dart';
+import '../components/card.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import '../comonents/iconContent.dart';
-import '../comonents/constant.dart';
-import '../comonents/bottom.dart';
-import '../comonents/roundButton.dart';
+import '../components/iconContent.dart';
+import '../components/constant.dart';
+import '../components/bottomButton.dart';
+import '../components/roundButton.dart';
 import 'results.dart';
 import 'package:bmi_calculator/calculator_brain.dart';
 

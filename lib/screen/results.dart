@@ -1,9 +1,9 @@
 
-import 'package:bmi_calculator/comonents/bottom.dart';
-import 'package:bmi_calculator/comonents/constant.dart';
+import 'package:bmi_calculator/components/bottomButton.dart';
+import 'package:bmi_calculator/components/constant.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import '../comonents/card.dart';
+import '../components/card.dart';
 
 class Result extends StatelessWidget {
 
